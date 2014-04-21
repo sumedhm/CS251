@@ -1,0 +1,2 @@
+30 7 * * * -u sumedh /scripts/gm.bash					#at 7:30am daily for user sumedh runs gm.bash at /scripts/
+40/5 13 * * 1,3 -u sumedh /scripts/mail.bash				#1:40am every 5 min mon-wed for user sumedh run mail.bash at /scripts/	
